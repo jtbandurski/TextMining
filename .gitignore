@@ -1,3 +1,7 @@
+# data folder
+AITA_project/data/
+# reddit credentials
+credentials
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
